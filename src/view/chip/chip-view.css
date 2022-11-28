@@ -1,0 +1,10 @@
+.view-ChipView {
+    display: inline-block;
+    border-radius: 999vmax;
+    background-color: #15b;
+    color: #fff;
+    font-weight: bolder;
+    padding: 0.25em 0.5em;
+    cursor: pointer;
+    margin: 0.125em;
+}

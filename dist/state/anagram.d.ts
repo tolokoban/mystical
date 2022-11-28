@@ -1,0 +1,2 @@
+export declare function useAnagramInput(): [string, (update: string | typeof import("jotai/utils").RESET | ((prev: string) => string | typeof import("jotai/utils").RESET)) => void];
+//# sourceMappingURL=anagram.d.ts.map

@@ -1,0 +1,13 @@
+{
+    "name": "script",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "type": "module",
+    "scripts": {
+        "gifts": "ts-node-esm gifts.ts",
+        "split": "ts-node-esm split.ts"
+    },
+    "author": "",
+    "license": "ISC"
+}

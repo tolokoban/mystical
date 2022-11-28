@@ -1,0 +1,1 @@
+{"version":3,"file":"words-tree.d.ts","sourceRoot":"","sources":["../../../src/anagram/worker/words-tree.ts"],"names":[],"mappings":"AAUA,MAAM,CAAC,OAAO,OAAO,SAAS;IAC1B,OAAO,CAAC,QAAQ,CAAC,IAAI,CAGpB;gBAEW,KAAK,EAAE,MAAM,EAAE;IAM3B,IAAI,CAAC,KAAK,EAAE,MAAM,GAAG,MAAM,EAAE;IAO7B,OAAO,CAAC,OAAO;IAwBf,QAAQ;CAGX"}
